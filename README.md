@@ -38,3 +38,14 @@ showing the distribution of feature values before and after preprocessing.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## References
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf
+https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
+https://towardsdatascience.com/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6
+https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+
+
+
+
