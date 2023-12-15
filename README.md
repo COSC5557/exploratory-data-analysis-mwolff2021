@@ -1,3 +1,7 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13226310&assignment_repo_type=AssignmentRepo)
+# See here for final version of the notebook
+https://colab.research.google.com/drive/1Y6_6na4NGFfwcyI-avfClnEqCzeiKI8S?usp=sharing
+
 # Exploratory Data Analysis
 
 For this exercise, you will have a look at the raw data before doing any machine
@@ -37,3 +41,14 @@ showing the distribution of feature values before and after preprocessing.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## References
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf
+https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
+https://towardsdatascience.com/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6
+https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+
+
+
+
